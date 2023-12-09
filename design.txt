@@ -1,0 +1,60 @@
+**********************************************************************************
+++++++++++++++++++++                                          ++++++++++++++++++++
+++++++++++++++++++++      Welcome to the Personality Test!    ++++++++++++++++++++
+++++++++++++++++++++                                          ++++++++++++++++++++
+**********************************************************************************                                                 
+     ++++++++++     Answer each question on a scale from 0 to 5     ++++++++++     
+==================================================================================
+      | Strongly Disagree | Disagree | Neutral | Agree |  Strongly Agree  |      
+----------------------------------------------------------------------------------
+      |         1         |    2     |    3    |   4   |          5       |       
+==================================================================================
+
+=>   Do you enjoy socializing with a large group of people?                   
+===> Certainly, count me in the scale of 
+=>   Do you prefer spending time alone or with a small group of close friends?
+===> Certainly, count me in the scale of 
+=>   Are you comfortable being the center of attention?                                         
+===> Certainly, count me in the scale of 
+=>   Are you a good listener and enjoy meaningful one-on-one conversations?    
+===> Certainly, count me in the scale of 
+=>   I often take the lead in group activities or discussions?                   
+===> Certainly, count me in the scale of 
+=>   Do you find it easy to start conversations with strangers?
+===> Certainly, count me in the scale of 
+=>   Are you open to trying new and adventurous activities?                  
+===> Certainly, count me in the scale of 
+=>   Do you value routine and stability in your daily life?                   
+===> Certainly, count me in the scale of 
+=>   Do you find yourself frequently reflecting on your thoughts and feelings?
+===> Certainly, count me in the scale of 
+=>   Do you find enjoyment in being spontaneous and going with the flow?
+===> Certainly, count me in the scale of 
+=>   
+
+##############################################################################
+########                                                              ########
+######     Based on your responses, you lean towards introversion.      ######
+########                                                              ########
+##############################################################################
+
+
+==============================================================================
+==========                Good Bye. Have a nice day!                ==========
+==============================================================================
+
+
+##################################################################################
+########                                                                  ########
+######       Based on your responses, you lean towards extroversion.        ######
+########                                                                  ########
+##################################################################################
+
+
+##################################################################################
+########                                                                  ########
+######       Based on your responses, you have a balanced personality.      ######
+########                                                                  ########
+##################################################################################
+
+
